@@ -27,6 +27,5 @@ Actualmente trabajo como **Ayudante TIC en la Junta de Andalucía** 💻 y soy e
 ### 📊 Mis Estadísticas en GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=robert02ssj&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robert02ssj&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes" />
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=robert02ssj)](https://github.com/anuraghazra/github-readme-stats)
 </div>
